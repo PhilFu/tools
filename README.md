@@ -11,4 +11,3 @@
 8. minimap-highlight-selected
 9. platformio-ide-terminal
 10. split-diff
-11. atom-fecs
