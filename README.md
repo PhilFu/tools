@@ -11,4 +11,4 @@
 8. minimap-highlight-selected：选中文本后minimap中也显示
 9. platformio-ide-terminal：内嵌terminal
 10. split-diff
-11. markdown-preview-enhanced：美化markdown
+11. markdown-preview-enhanced：美化markdown https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/diagrams?id=mermaid
